@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Demo {
+public class postDemo {
 
     public static void main(String[] args) throws IOException {
         //填写接口地址
