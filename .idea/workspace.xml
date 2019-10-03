@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae25a705-24d1-469b-bb38-0200ec59ab28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,24 +40,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="1005">
+              <caret line="67" column="56" selection-start-line="67" selection-start-column="56" selection-end-line="67" selection-end-column="56" />
               <folding>
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#509#525#0" expanded="true" />
+                <element signature="e#893#909#0" expanded="true" />
+                <element signature="e#1210#1226#0" expanded="true" />
+                <element signature="e#1527#1543#0" expanded="true" />
+                <element signature="e#1844#1860#0" expanded="true" />
+                <element signature="e#2161#2177#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="18" column="84" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -96,6 +109,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v1.java" />
       </list>
     </option>
   </component>
@@ -107,8 +121,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="26" />
+    <option name="x" value="30" />
+    <option name="y" value="23" />
     <option name="width" value="1393" />
     <option name="height" value="857" />
   </component>
@@ -181,7 +195,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570092969635" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570094555852" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -206,19 +220,6 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG./Users/aaa./Documents/project/apiAuto/testng.xml">
-    <configuration name="getDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v2.getDemo" />
-      <module name="apiAuto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.apiAuto_v2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="getDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.apiAuto.getDemo" />
       <module name="apiAuto" />
@@ -232,7 +233,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="postDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="getDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v2.getDemo" />
+      <module name="apiAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.apiAuto_v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="postDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v2.postDemo" />
       <module name="apiAuto" />
       <extension name="coverage">
@@ -245,7 +259,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegisterCase.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterCase_v1.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="apiAuto" />
       <extension name="coverage">
         <pattern>
@@ -254,7 +268,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.project.apiAuto_v2" />
-      <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v2.RegisterCase" />
+      <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v2.RegisterCase_v1" />
       <option name="METHOD_NAME" value="Test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -276,7 +290,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/aaa./Documents/project/apiAuto/testng.xml" />
-        <item itemvalue="TestNG.RegisterCase.Test1" />
+        <item itemvalue="TestNG.RegisterCase_v1.Test1" />
         <item itemvalue="Application.getDemo (1)" />
         <item itemvalue="Application.postDemo (1)" />
         <item itemvalue="Application.getDemo" />
@@ -293,16 +307,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569977714247</updated>
-      <workItem from="1569977719802" duration="11702000" />
+      <workItem from="1569977719802" duration="12951000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="RegisterCase_Test1 - 2019.10.03 at 21h 53m 59s.xml">
+      <configuration name="RegisterCase.Test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.03 at 21h 54m 12s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.03 at 21h 56m 11s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.03 at 22h 18m 06s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.03 at 22h 19m 05s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11702000" />
+    <option name="totallyTimeSpent" value="12951000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="26" width="1393" height="857" extended-state="0" />
-    <editor active="true" />
+    <frame x="30" y="23" width="1393" height="857" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -318,8 +348,8 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,20 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -410,14 +426,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="120">
+          <caret line="18" column="84" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="56" selection-start-line="67" selection-start-column="56" selection-end-line="67" selection-end-column="56" />
           <folding>
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#509#525#0" expanded="true" />
+            <element signature="e#893#909#0" expanded="true" />
+            <element signature="e#1210#1226#0" expanded="true" />
+            <element signature="e#1527#1543#0" expanded="true" />
+            <element signature="e#1844#1860#0" expanded="true" />
+            <element signature="e#2161#2177#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
