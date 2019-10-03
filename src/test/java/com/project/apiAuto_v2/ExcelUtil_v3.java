@@ -6,7 +6,7 @@ import org.apache.poi.ss.usermodel.*;
 import java.io.File;
 import java.io.IOException;
 
-public class ExcelUtil {
+public class ExcelUtil_v3 {
     public static Object [][] testdata(){
         String excelPath = "src/test/resources/TestCase_v1.xlsx";
         //获取Workbook对象

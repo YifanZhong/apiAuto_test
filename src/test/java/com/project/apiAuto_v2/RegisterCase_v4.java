@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import java.util.HashMap;
 import java.util.Map;
 
-public class RegisterCase_v3 {
+public class RegisterCase_v4 {
     //mobilephone:"13644445555", pwd:""
     //mobilephone:"", pwd:"123456"
     //mobilephone:"1364444", pwd:"123456"
@@ -27,7 +27,7 @@ public class RegisterCase_v3 {
 
     @DataProvider
     public Object[][] testdata(){
-        Object [][] testdata = ExcelUtil_v3.testdata();
+        Object [][] testdata = ExcelUtil_v4.testdata("src/test/resources/TestCase_v1.xlsx",2,7,6,7);
         return testdata;
     }
 

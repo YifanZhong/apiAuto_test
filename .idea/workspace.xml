@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae25a705-24d1-469b-bb38-0200ec59ab28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/project/apiAuto_v2/ExcelUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/project/apiAuto_v2/RegisterCase_v3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/project/apiAuto_v2/RegisterCase_v3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -26,40 +31,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="19" column="84" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+            <state relative-caret-position="346">
+              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            <state relative-caret-position="530">
+              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -91,7 +96,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v4.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v4.java" />
       </list>
     </option>
   </component>
@@ -163,10 +171,6 @@
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="apiAuto_v2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="apiAuto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -177,7 +181,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570105499418" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570107818346" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -206,8 +210,8 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG./Users/aaa./Documents/project/apiAuto/testng.xml">
-    <configuration name="ExcelUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v2.ExcelUtil" />
+    <configuration name="ExcelUtil_v3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v2.ExcelUtil_v3" />
       <module name="apiAuto" />
       <extension name="coverage">
         <pattern>
@@ -276,7 +280,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/aaa./Documents/project/apiAuto/testng.xml" />
-        <item itemvalue="Application.ExcelUtil" />
+        <item itemvalue="Application.ExcelUtil_v3" />
         <item itemvalue="TestNG.RegisterCase_v1.Test1" />
         <item itemvalue="Application.getDemo (1)" />
         <item itemvalue="Application.postDemo (1)" />
@@ -293,14 +297,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569977714247</updated>
-      <workItem from="1569977719802" duration="18446000" />
+      <workItem from="1569977719802" duration="20125000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RegisterCase_Test1 - 2019.10.03 at 21h 53m 59s.xml">
-      <configuration name="RegisterCase.Test1" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.03 at 21h 54m 12s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -322,9 +323,18 @@
     <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 01h 14m 04s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 01h 57m 28s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 01h 58m 30s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 02h 02m 20s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18446000" />
+    <option name="totallyTimeSpent" value="20125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1393" height="857" extended-state="0" />
@@ -445,17 +455,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/ss/usermodel/Sheet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3101">
           <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -466,20 +476,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        <state relative-caret-position="367">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -487,6 +487,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
