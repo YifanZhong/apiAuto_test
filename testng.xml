@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "futureLoan"> <!-- 套件 -->
+
+    <test name = "register"> <!-- 测试集/模块 -->
+        <classes>          <!-- 测试类 -->
+            <class name = "com.project.apiAuto_v2.RegisterCase"> <!-- 单个测试类定义-->
+            </class>
+        </classes>
+    </test>
+
+    <!--
+    <listeners>
+        <listener class-name = "com"/>
+    </listeners>
+    -->
+
+</suite>
