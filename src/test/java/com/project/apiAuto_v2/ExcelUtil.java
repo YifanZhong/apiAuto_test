@@ -43,6 +43,7 @@ public class ExcelUtil {
         for (Object[] objects : testdata){
             for (Object object:objects){
                 System.out.println("["+object+"]");
+                //System.out.println(object);
             }
         }
     }

@@ -27,15 +27,7 @@ public class RegisterCase_v3 {
 
     @DataProvider
     public Object[][] testdata(){
-        Object [][] testdata = {
-                {"13655554444",""},
-                {"","123456"},
-                {"1365555","123456"},
-                {"13655554444","12345"},
-                {"13655554444","123456"},
-                {"13655554444","123456"},
-
-        };
+        Object [][] testdata = ExcelUtil.testdata();
         return testdata;
     }
 
