@@ -20,7 +20,7 @@ public class getDemo {
         String mobilephone = "13166666666";
         String pwd = "666666";
         url += ("?mobilephone="+ mobilephone + "&pwd=" + pwd);
-        System.out.println(url);
+        //System.out.println(url);
         //指定接口请求方式为：get
         HttpGet get = new HttpGet(url);
         //发起请求,拿到响应数据
