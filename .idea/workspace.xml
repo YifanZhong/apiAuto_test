@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae25a705-24d1-469b-bb38-0200ec59ab28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/HttpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/HttpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/HttpUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/getDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/getDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,31 +16,34 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/HttpUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="-163">
+              <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/getDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+              <folding>
+                <element signature="e#681#697#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-              <folding>
-                <element signature="e#795#811#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-47">
+              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -67,8 +67,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto/Demo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto/postDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto/getDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/getDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/getDemo.java" />
       </list>
     </option>
   </component>
@@ -163,7 +164,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570078288960" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570091643142" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -187,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.postDemo (1)">
+  <component name="RunManager" selected="Application.getDemo (1)">
     <configuration name="getDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v2.getDemo" />
       <module name="apiAuto" />
@@ -242,8 +243,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.postDemo (1)" />
         <item itemvalue="Application.getDemo (1)" />
+        <item itemvalue="Application.postDemo (1)" />
         <item itemvalue="Application.getDemo" />
         <item itemvalue="Application.postDemo" />
       </list>
@@ -259,12 +260,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569977714247</updated>
-      <workItem from="1569977719802" duration="8369000" />
+      <workItem from="1569977719802" duration="10520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8369000" />
+    <option name="totallyTimeSpent" value="10520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="34" width="1393" height="857" extended-state="0" />
@@ -315,23 +316,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto/getDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/getDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto/postDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -356,19 +340,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/HttpUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="-47">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto/getDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        <state relative-caret-position="61">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#795#811#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/getDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+          <folding>
+            <element signature="e#681#697#0" expanded="true" />
           </folding>
         </state>
       </provider>

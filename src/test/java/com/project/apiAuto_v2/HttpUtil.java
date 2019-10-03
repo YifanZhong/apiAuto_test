@@ -3,11 +3,13 @@ package com.project.apiAuto_v2;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
+import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -53,4 +55,45 @@ public class HttpUtil {
         //System.out.println(result);
         return result;
     }
+
+    /***
+     * 以GET的方式完成接口调用
+     * @param url
+     * @param params
+     * @return
+     */
+    public static String doGet(String url, Map<String,String> params){
+        Set<String> keys = params.keySet();
+
+        int mark = 1;
+        for (String name:keys){
+            if (mark==1){
+                url+=("?"+name+"="+params.get(name));
+            }else{
+                url+=("&"+name+"="+params.get(name));
+            }
+            mark++;
+        }
+        //System.out.println("url = "+ url);
+
+        //指定接口请求方式为：get
+        HttpGet get = new HttpGet(url);
+        //发起请求,拿到响应数据
+        HttpClient client = HttpClients.createDefault();
+        HttpResponse httpResponse = null;
+
+        String result = "";
+        try {
+            httpResponse = client.execute(get);
+            int code = httpResponse.getStatusLine().getStatusCode();
+            System.out.println(code);
+            result = EntityUtils.toString(httpResponse.getEntity());
+            //System.out.println(result);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return result;
+    }
+
 }
