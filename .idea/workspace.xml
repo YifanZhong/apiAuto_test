@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae25a705-24d1-469b-bb38-0200ec59ab28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/ExcelUtil_v6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/HttpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/RegisterCase_v6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/ExcelUtil_v7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterCase_v7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterParam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/TestCase_v1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestCase_v1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCase_v1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCase_v1.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,29 +19,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/ExcelUtil_v6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/RegisterCase_v6.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterCase_v7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="210">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/ExcelUtil_v7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterParam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+              <folding>
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,7 +91,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/RegisterCase_v6.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/ExcelUtil_v6.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/RegisterCase_v7.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/HttpUtil.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterParam.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/ExcelUtil_v7.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterCase_v7.java" />
       </list>
     </option>
   </component>
@@ -95,7 +108,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
+    <option name="x" value="47" />
     <option name="y" value="23" />
     <option name="width" value="1393" />
     <option name="height" value="857" />
@@ -153,7 +166,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="apiAuto_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="apiAuto_v3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="apiAuto" type="b2602c69:ProjectViewProjectNode" />
@@ -162,7 +175,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="apiAuto_v3" type="462c0819:PsiDirectoryNode" />
+              <item name="apiAuto_v4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="apiAuto" type="b2602c69:ProjectViewProjectNode" />
@@ -181,7 +194,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570114834284" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570116870358" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -194,6 +207,8 @@
       <recent name="com.project.apiAuto_v2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/project" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2" />
     </key>
@@ -298,47 +313,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569977714247</updated>
-      <workItem from="1569977719802" duration="25316000" />
+      <workItem from="1569977719802" duration="27511000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 30m 03s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 11m 14s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 32m 03s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 11m 23s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 37m 40s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 14m 22s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 41m 08s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 14m 57s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 42m 10s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 15m 16s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 47m 18s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 18m 37s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 47m 57s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 25m 20s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 48m 59s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 27m 23s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 50m 48s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 27m 51s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 03h 51m 33s.xml">
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.04 at 04h 28m 12s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25316000" />
+    <option name="totallyTimeSpent" value="27511000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1393" height="857" extended-state="0" />
+    <frame x="47" y="23" width="1393" height="857" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -346,17 +361,17 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32941177" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -371,6 +386,37 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24944486" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32941177" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -522,13 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -536,10 +575,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/RegisterCase_v7.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/ExcelUtil_v6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="161">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/ExcelUtil_v7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -547,6 +623,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterCase_v7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
         </state>
       </provider>
     </entry>
