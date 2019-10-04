@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae25a705-24d1-469b-bb38-0200ec59ab28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/CaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/ExcelUtil_v8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/HttpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/RegisterCase_v8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/ExcelUtil_v8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/ExcelUtil_v8.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/CaseUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="172">
@@ -32,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/ExcelUtil_v8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="53" column="27" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="27" />
+            <state relative-caret-position="157">
+              <caret line="131" column="29" selection-start-line="131" selection-start-column="29" selection-end-line="131" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,8 +122,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v5/RegisterCase_v8.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/RegisterCase_v8.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/Case.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/ExcelUtil_v8.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/CaseUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/ExcelUtil_v8.java" />
       </list>
     </option>
   </component>
@@ -216,7 +212,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570190120351" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570193897913" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -339,7 +335,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569977714247</updated>
-      <workItem from="1569977719802" duration="47515000" />
+      <workItem from="1569977719802" duration="49308000" />
     </task>
     <servers />
   </component>
@@ -376,7 +372,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47515000" />
+    <option name="totallyTimeSpent" value="49308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="23" width="1393" height="857" extended-state="0" />
@@ -415,18 +411,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/ExcelUtil_v8.java</url>
-          <line>114</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/apiAuto.iml">
@@ -695,17 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/CaseUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#177#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/Case.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -771,10 +744,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/ExcelUtil_v8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="53" column="27" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="27" />
+        <state relative-caret-position="157">
+          <caret line="131" column="29" selection-start-line="131" selection-start-column="29" selection-end-line="131" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6/CaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#177#183#0" expanded="true" />
           </folding>
         </state>
       </provider>

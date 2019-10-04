@@ -94,7 +94,7 @@ public class ExcelUtil_v8 {
                 //拿到一个数据行
                 Row dataRow = sheet.getRow(i);
 
-                if(dataRow==null){
+                if(dataRow==null||isEmptyRow(dataRow)){
                     continue;
                 }
                 //拿到此数据行上面的每一列,将数据封装到cs对象
@@ -120,6 +120,20 @@ public class ExcelUtil_v8 {
             e.printStackTrace();
 
         }
+    }
+
+    private static boolean isEmptyRow(Row dataRow){
+        int lastCellNum = dataRow.getLastCellNum();
+        for (int i = 0; i < lastCellNum; i++) {
+            Cell cell = dataRow.getCell(i, Row.MissingCellPolicy.CREATE_NULL_AS_BLANK);
+            cell.setCellType(CellType.STRING);
+            String value = cell.getStringCellValue();
+            if (value!=null&&value.trim().length()>0){
+                return false;
+            }
+
+        }
+        return true;
     }
 
 
