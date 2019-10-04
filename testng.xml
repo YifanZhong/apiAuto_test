@@ -5,7 +5,7 @@
 
     <test name = "register"> <!-- 测试集/模块 -->
         <classes>          <!-- 测试类 -->
-            <class name = "com.project.apiAuto_v4.RegisterCase_v7"> <!-- 单个测试类定义-->
+            <class name = "com.project.apiAuto_v5.RegisterCase_v8"> <!-- 单个测试类定义-->
             </class>
         </classes>
     </test>
