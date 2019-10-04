@@ -1,6 +1,7 @@
 package com.project.apiAuto_v6;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
+import org.apache.poi.ss.formula.functions.T;
 import org.apache.poi.ss.usermodel.*;
 
 import java.io.File;
@@ -55,8 +56,8 @@ public class ExcelUtil_v8 {
      * @param excelPath excel文件的相对路径
      * @param sheetName Excel表单名
      */
-    public static void load(String excelPath, String sheetName) {
-        Class clazz = Case.class;
+    public static <T> void load(String excelPath, String sheetName, Class<T> clazz) {
+        //Class clazz = Case.class;
         //创建WorkBook对象
         try {
             Workbook workbook = WorkbookFactory.create(new File(excelPath));
@@ -67,7 +68,6 @@ public class ExcelUtil_v8 {
             //获取最后一行的列号
             int lastCellNum = titleRow.getLastCellNum();//拿到列号，比index大一
             //System.out.println(lastCellNum);
-
 
 
 
@@ -90,7 +90,8 @@ public class ExcelUtil_v8 {
             int lastRowIndex = sheet.getLastRowNum();
             //循环处理每一个数据行
             for (int i = 1; i <= lastRowIndex; i++) {
-                Case cs = (Case) clazz.newInstance();
+                //Case cs = (Case) clazz.newInstance();
+                Object obj = clazz.newInstance();
                 //拿到一个数据行
                 Row dataRow = sheet.getRow(i);
 
@@ -108,11 +109,18 @@ public class ExcelUtil_v8 {
                     //拿到methodName后，获取要反射的方法对象
                     Method method = clazz.getMethod(methodName, String.class);
                     //完成反射调用
-                    method.invoke(cs,value);
+                    method.invoke(obj,value);
                 }
-                System.out.println(cs);
-                //
-                CaseUtil.cases.add(cs);
+                //System.out.println(cs);
+                //CaseUtil.cases.add(cs);
+                if (obj instanceof Case){ //instanceof 是判断对象类型的语法
+                    Case cs = (Case) obj;
+                    CaseUtil.cases.add(cs);
+                }else if (obj instanceof Rest){
+                    Rest rest = (Rest) obj;
+                    RestUtil.rests.add(rest);
+
+                }
 
             }
 

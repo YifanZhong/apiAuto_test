@@ -45,7 +45,7 @@ public class HttpUtil {
             HttpResponse httpResponse = client.execute(post);
             //状态码
             int code = httpResponse.getStatusLine().getStatusCode();
-            System.out.println(code);
+            //System.out.println(code);
             //响应报文
             result = EntityUtils.toString(httpResponse.getEntity());
         } catch (Exception e) {
