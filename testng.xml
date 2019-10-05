@@ -10,6 +10,13 @@
         </classes>
     </test>
 
+    <test name = "login"> <!-- 测试集/模块 -->
+        <classes>          <!-- 测试类 -->
+            <class name = "com.project.apiAuto_v6.LoginCase_v8"> <!-- 单个测试类定义-->
+            </class>
+        </classes>
+    </test>
+
     <!--
     <listeners>
         <listener class-name = "com"/>
