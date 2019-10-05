@@ -5,14 +5,14 @@
 
     <test name = "register"> <!-- 测试集/模块 -->
         <classes>          <!-- 测试类 -->
-            <class name = "com.project.apiAuto_v6.RegisterCase_v8"> <!-- 单个测试类定义-->
+            <class name = "com.project.apiAuto_v7.RegisterCase_v9"> <!-- 单个测试类定义-->
             </class>
         </classes>
     </test>
 
     <test name = "login"> <!-- 测试集/模块 -->
         <classes>          <!-- 测试类 -->
-            <class name = "com.project.apiAuto_v6.LoginCase_v8"> <!-- 单个测试类定义-->
+            <class name = "com.project.apiAuto_v7.LoginCase_v9"> <!-- 单个测试类定义-->
             </class>
         </classes>
     </test>
