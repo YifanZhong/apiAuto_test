@@ -40,7 +40,7 @@ public class RegisterCase_v10 extends BaseProcessor {
 
     @DataProvider
     public Object[][] testdata(){
-        String [] cellNames = {"CaseId","ApiId","Params"};
+        String [] cellNames = {"CaseId","ApiId","Params","ExpectedResponseData"};
         Object [][] testdata = CaseUtil.getCaseDatasByApiId("1",cellNames);
         return testdata;
     }

@@ -50,7 +50,7 @@ public class HttpUtil {
 
 
             getAndStoreCookiesFromResponseHeader(httpResponse);
-            
+
             //状态码
             int code = httpResponse.getStatusLine().getStatusCode();
             //System.out.println(code);
