@@ -1,4 +1,4 @@
-package com.project.apiAuto_v9;
+package com.project.apiAuto_v9.POJO;
 
 /***
  * 保存case信息

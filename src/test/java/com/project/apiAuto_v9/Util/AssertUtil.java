@@ -1,4 +1,4 @@
-package com.project.apiAuto_v9;
+package com.project.apiAuto_v9.Util;
 
 import org.testng.Assert;
 

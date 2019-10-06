@@ -1,5 +1,6 @@
-package com.project.apiAuto_v9;
+package com.project.apiAuto_v9.Cases;
 
+import com.project.apiAuto_v9.Util.CaseUtil;
 import org.testng.annotations.DataProvider;
 
 public class LoginCase_v10 extends BaseProcessor {
