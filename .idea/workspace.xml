@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae25a705-24d1-469b-bb38-0200ec59ab28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/BaseProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/CaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/ExcelUtil_v10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/HttpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/LoginCase_v10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/RegisterCase_v10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/Rest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/RestUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/WriteBackData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestCase_v8.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_v10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/BaseProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/CaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/ExcelUtil_v10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/LoginCase_v10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RechargeCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RegisterCase_v10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Rest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/WriteBackData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_v9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCase_v7.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCase_v7.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCase_v8.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCase_v8.xlsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,80 +28,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/RestUtil.java">
+        <entry file="file://$PROJECT_DIR$/testng_v9.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/WriteBackData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#749#750#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#1044#1045#0" expanded="true" />
-                <element signature="e#1067#1068#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/RegisterCase_v10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/LoginCase_v10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/BaseProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1317#1318#0" expanded="true" />
-                <element signature="e#1344#1345#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/ExcelUtil_v10.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/HttpUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="302" column="37" selection-start-line="302" selection-start-column="37" selection-end-line="302" selection-end-column="37" />
+            <state relative-caret-position="220">
+              <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+              <folding>
+                <element signature="e#544#560#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,13 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto/Demo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto/postDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto/getDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/postDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/HttpUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/getDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v1.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v2.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil.java" />
@@ -171,6 +106,14 @@
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/BaseProcessor.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/ExcelUtil_v10.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/WriteBackData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RechargeCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/CaseUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RestUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/ExcelUtil_v10.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/BaseProcessor.java" />
+        <option value="$PROJECT_DIR$/testng_v9.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/HttpUtil.java" />
       </list>
     </option>
   </component>
@@ -234,7 +177,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="apiAuto_v8" type="462c0819:PsiDirectoryNode" />
+              <item name="apiAuto_v9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="apiAuto" type="b2602c69:ProjectViewProjectNode" />
@@ -253,7 +196,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570279462552" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570338160684" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -270,10 +213,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/project" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8" />
-      <recent name="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v7" />
-      <recent name="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,22 +231,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/aaa./Documents/project/apiAuto/testng_v8.xml">
+  <component name="RunManager" selected="TestNG./Users/aaa./Documents/project/apiAuto/testng_v9.xml">
     <configuration name="CaseUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v6.CaseUtil" />
-      <module name="apiAuto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.apiAuto_v6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExcelUtil_v8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.apiAuto_v6.ExcelUtil_v8" />
       <module name="apiAuto" />
       <extension name="coverage">
         <pattern>
@@ -338,6 +268,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/aaa./Documents/project/apiAuto/testng_v9.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="apiAuto" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_v9.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="apiAuto" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -350,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/aaa./Documents/project/apiAuto/testng_v9.xml" />
         <item itemvalue="TestNG./Users/aaa./Documents/project/apiAuto/testng_v8.xml" />
         <item itemvalue="TestNG./Users/aaa./Documents/project/apiAuto/testng.xml" />
         <item itemvalue="Application.RestUtil" />
         <item itemvalue="Application.CaseUtil" />
-        <item itemvalue="Application.ExcelUtil_v8" />
       </list>
     </recent_temporary>
   </component>
@@ -368,23 +308,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569977714247</updated>
-      <workItem from="1569977719802" duration="70342000" />
+      <workItem from="1569977719802" duration="76101000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.05 at 16h 27m 55s.xml">
-      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.05 at 16h 30m 07s.xml">
-      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.05 at 18h 34m 10s.xml">
-      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.05 at 18h 34m 47s.xml">
-      <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.05 at 18h 37m 14s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -403,12 +331,25 @@
     <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_xml - 2019.10.06 at 01h 20m 17s.xml">
       <configuration name="/Users/aaa./Documents/project/apiAuto/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_v8_xml - 2019.10.06 at 01h 44m 45s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng_v8.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_v9_xml - 2019.10.06 at 14h 55m 12s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng_v9.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_v9_xml - 2019.10.06 at 17h 56m 54s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng_v9.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aaa__Documents_project_apiAuto_testng_v9_xml - 2019.10.06 at 18h 02m 25s.xml">
+      <configuration name="/Users/aaa./Documents/project/apiAuto/testng_v9.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70342000" />
+    <option name="totallyTimeSpent" value="76101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="23" width="1393" height="857" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -424,7 +365,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
@@ -446,7 +387,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24944486" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24944486" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.32941177" />
@@ -455,7 +396,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
@@ -476,102 +417,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/HttpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-854">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/HttpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-224">
-          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/RegisterCase_v5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v2/ExcelUtil_v5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/RegisterCase_v7.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/ExcelUtil_v6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/ExcelUtil_v7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v3/RegisterCase_v6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v4/RegisterCase_v7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -613,13 +458,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
@@ -851,10 +689,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/RestUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v7/RegisterCase_v9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        <state relative-caret-position="360">
+          <caret line="28" column="94" selection-start-line="28" selection-start-column="94" selection-end-line="28" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_v8.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/ExcelUtil_v10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="288" column="13" selection-start-line="288" selection-start-column="13" selection-end-line="288" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/BaseProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/LoginCase_v10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/RegisterCase_v10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -885,53 +773,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/LoginCase_v10.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/RestUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        <state relative-caret-position="32">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/RegisterCase_v10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng_v10.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Rest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v7/RegisterCase_v9.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RestUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="94" selection-start-line="28" selection-start-column="94" selection-end-line="28" selection-end-column="94" />
+        <state relative-caret-position="240">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/BaseProcessor.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/CaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        <state relative-caret-position="120">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1344#1345#0" expanded="true" />
+            <element signature="e#255#261#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v8/ExcelUtil_v10.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/WriteBackData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="302" column="37" selection-start-line="302" selection-start-column="37" selection-end-line="302" selection-end-column="37" />
+        <state relative-caret-position="-104">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RechargeCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/BaseProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="42" column="72" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/ExcelUtil_v10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="85" lean-forward="true" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/LoginCase_v10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RegisterCase_v10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Case.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_v9.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+          <folding>
+            <element signature="e#544#560#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
