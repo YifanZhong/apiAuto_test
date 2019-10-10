@@ -3,20 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae25a705-24d1-469b-bb38-0200ec59ab28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/AssertUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Util/AssertUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/BaseProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Cases/BaseProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/POJO/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/CaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Util/CaseUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/ExcelUtil_v10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Util/ExcelUtil_v10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/HttpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Util/HttpUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/LoginCase_v10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Cases/LoginCase_v10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RechargeCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Cases/RechargeCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RegisterCase_v10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Cases/RegisterCase_v10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/POJO/Rest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/RestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Util/RestUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/WriteBackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/POJO/WriteBackData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng_v8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_v8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng_v9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_v9.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Util/ExcelUtil_v10.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -198,7 +184,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="42" />
     <option name="y" value="28" />
     <option name="width" value="1393" />
@@ -235,21 +221,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="apiAuto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apiAuto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apiAuto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apiAuto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -261,7 +232,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570344415074" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570617582440" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -374,7 +345,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569977714247</updated>
       <workItem from="1569977719802" duration="77390000" />
-      <workItem from="1570341968799" duration="2361000" />
+      <workItem from="1570341968799" duration="3132000" />
     </task>
     <servers />
   </component>
@@ -411,10 +382,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79751000" />
+    <option name="totallyTimeSpent" value="80522000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="28" width="1393" height="857" extended-state="0" />
+    <frame x="42" y="28" width="1393" height="857" extended-state="1" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -924,7 +895,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/project/apiAuto_v9/Util/ExcelUtil_v10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
