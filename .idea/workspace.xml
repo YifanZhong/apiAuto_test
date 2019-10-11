@@ -182,7 +182,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="42" />
     <option name="y" value="28" />
     <option name="width" value="1393" />
@@ -219,6 +219,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="apiAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -230,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570788403580" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570790531801" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -343,7 +351,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569977714247</updated>
       <workItem from="1569977719802" duration="77390000" />
-      <workItem from="1570341968799" duration="3132000" />
+      <workItem from="1570341968799" duration="3495000" />
     </task>
     <servers />
   </component>
@@ -380,10 +388,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80522000" />
+    <option name="totallyTimeSpent" value="80885000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="28" width="1393" height="857" extended-state="1" />
+    <frame x="42" y="28" width="1393" height="857" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
